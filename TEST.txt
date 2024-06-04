@@ -1,3 +1,7 @@
 test 1: init git, move to repository TESTGIT. create branch A and B and push to A . Then B pull 
 Test 2:
+<<<<<<< HEAD
 test 3:
+=======
+test 3: git pull
+>>>>>>> d1bfa3995aa2858d6f289218b1e307eaf9649cab
